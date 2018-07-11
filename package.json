@@ -1,0 +1,33 @@
+{
+  "name": "parcel_demo",
+  "version": "1.0.0",
+  "description": "Parcel use demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hana-Lee/parcel_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hana-Lee/parcel_demo/issues"
+  },
+  "homepage": "https://github.com/Hana-Lee/parcel_demo#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.1.0",
+    "gojs": "^1.8.23",
+    "install": "^0.12.1",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.10",
+    "npm": "^6.1.0",
+    "sockjs-client": "^1.1.5",
+    "stomp-websocket": "^2.3.4-next"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
+  }
+}

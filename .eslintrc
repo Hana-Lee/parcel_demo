@@ -1,0 +1,10 @@
+{
+  "extends": ["eslint:recommended", "airbnb"],
+  "rules": {
+    "no-underscore-dangle": ["error", {
+      "allowAfterThis": true
+    }],
+    "indent": ["error", "10"],
+    "no-tabs": "off"
+  }
+}
